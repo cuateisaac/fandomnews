@@ -1,0 +1,12 @@
+.nav-text{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.body-img{
+        background: url(./img/bg.png);
+}
+.body-color{
+    background-color: black;
+}
+.div-bg{
+    background-color: rgba(0,0,0,0.8);
+}
